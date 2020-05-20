@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'MyFont';
+  src: url(fonts/24258c12c0352fbd9f49cb718fdf71ac.woff2) format('woff2'), url(fonts/1641ad7b245f3f90dd766755936cdda8.woff) format('woff');
+  font-weight: 600;
+  font-style: normal;
+}
+
+.red {
+  font-family: 'MyFont';
+  color: red;
+}
+body{
+  background-color: pink;
+  font-size: 20px;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9zcmMvc3R5bGUuY3NzIiwid2VicGFjazovLy8uL3NyYy9zdHlsZTIuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTs7QUFFQTtBQUNBO0FBQ0E7QUFDQSxDO0FDVkE7QUFDQTtBQUNBO0FBQ0EsQyIsImZpbGUiOiJhcHAuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiQGZvbnQtZmFjZSB7XG4gIGZvbnQtZmFtaWx5OiAnTXlGb250JztcbiAgc3JjOiB1cmwoZm9udHMvMjQyNThjMTJjMDM1MmZiZDlmNDljYjcxOGZkZjcxYWMud29mZjIpIGZvcm1hdCgnd29mZjInKSwgdXJsKGZvbnRzLzE2NDFhZDdiMjQ1ZjNmOTBkZDc2Njc1NTkzNmNkZGE4LndvZmYpIGZvcm1hdCgnd29mZicpO1xuICBmb250LXdlaWdodDogNjAwO1xuICBmb250LXN0eWxlOiBub3JtYWw7XG59XG5cbi5yZWQge1xuICBmb250LWZhbWlseTogJ015Rm9udCc7XG4gIGNvbG9yOiByZWQ7XG59IiwiYm9keXtcbiAgYmFja2dyb3VuZC1jb2xvcjogcGluaztcbiAgZm9udC1zaXplOiAyMHB4O1xufSJdLCJzb3VyY2VSb290IjoiIn0=*/
